@@ -1,6 +1,6 @@
 name 'worker_win7'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Mikael Michelier'
+maintainer_email 'mikael.michelier@viastak.com'
 license 'All Rights Reserved'
 description 'Installs/Configures worker_win7'
 long_description 'Installs/Configures worker_win7'
